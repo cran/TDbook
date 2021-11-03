@@ -1,7 +1,7 @@
 Package: TDbook
 Title: Companion Package for the Book "Data Integration, Manipulation
         and Visualization of Phylogenetic Trees"
-Version: 0.0.3
+Version: 0.0.4
 Authors@R: c(
        person("Guangchuang", "Yu",     email = "guangchuangyu@gmail.com", role = c("aut", "cre", "cph"), comment = c(ORCID = "0000-0002-6485-8781")),
        person("Shuangbin", "Xu",       email = "xshuangbin@163.com",      role = "aut", comment = c(ORCID="0000-0003-3513-5362")),
@@ -16,11 +16,11 @@ BugReports: https://github.com/YuLab-SMU/TDbook/issues
 LazyData: true
 RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2021-10-27 14:35:38 UTC; guang
+Packaged: 2021-11-03 01:24:58 UTC; ygc
 Author: Guangchuang Yu [aut, cre, cph]
     (<https://orcid.org/0000-0002-6485-8781>),
   Shuangbin Xu [aut] (<https://orcid.org/0000-0003-3513-5362>),
   Lin Li [aut]
 Maintainer: Guangchuang Yu <guangchuangyu@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-10-28 19:30:08 UTC
+Date/Publication: 2021-11-03 08:10:13 UTC

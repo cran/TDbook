@@ -2,23 +2,23 @@
 % Please edit documentation in R/AllData.R
 \docType{data}
 \encoding{UTF-8}
-\name{data-df_info}
-\alias{data-df_info}
-\alias{df_info}
-\title{Sampling information data set}
+\name{data-df_bar_data}
+\alias{data-df_bar_data}
+\alias{df_bar_data}
+\title{Trait data}
 \format{
-A data frame contains 386 rows and 6 variables, with a column of
+A data frame contains 386 rows and 2 variables, with a column of
 "node" or first column of taxa labels.
 }
 \source{
 \url{https://raw.githubusercontent.com/katholt/plotTree/master/
-tree_example_april2015/info.csv}
+tree_example_april2015/bar.csv}
 }
 \description{
-The sampling information data set be attached to the tree tip. \cr
+The trait data to be visualized with bar plot and attached to the tree. \cr
 Chap.7.2
 }
 \examples{
-data(df_info)
+data(df_bar_data)
 }
 \keyword{data}
