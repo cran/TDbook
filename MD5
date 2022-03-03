@@ -1,7 +1,8 @@
-184e5603a749be917e47817ad5d9344e *DESCRIPTION
+97b2cac3b5218d26f5a923dd1d2b631f *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 b2ad2def0cce72983019e669fdb3b78b *R/AllData.R
-0c37a97b5e7be7209055bbd5dd0bc041 *build/partial.rdb
+077f77f974fbd20a8d6a2dca3e18615a *R/TDbook-package.R
+5db1b17a2e460856ee252eaf11e9c4b2 *build/partial.rdb
 aaf6dee1984d83643877585d686bab2a *data/AA_sequence.rda
 1325e843616d401c54d193c086e3b8c9 *data/datalist
 1e8f8df3536adacc61feb28cd75064b9 *data/df_Candidaauris_data.rda
@@ -38,6 +39,7 @@ f681b7b8e0c10429fcaf0c31de5b9752 *inst/extdata/frogs/dendrobatidae.jpg
 6f860838fc5f4b7e47d300e28aa73f87 *inst/extdata/frogs/hylidae.jpg
 b2606c3c5f008f6d5c55146f63848c91 *inst/extdata/frogs/leptodactylidae.jpg
 7a57adcc49dfeb81897c93b2d9c3c8c6 *inst/extdata/frogs/treefrogs.jpg
+514b9599897805f2172f503aef2b3fd3 *man/TDbook-package.Rd
 3d780acad11347d72f769f6c6cf8c115 *man/data-AA_sequence.Rd
 454434bd5f34aa6a7c91a7c22e809aa3 *man/data-df_Candidaauris_data.Rd
 a67730d465349d682d0886ad3cad54d2 *man/data-df_NJIDqgsS.Rd
