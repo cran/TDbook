@@ -1,8 +1,8 @@
-97b2cac3b5218d26f5a923dd1d2b631f *DESCRIPTION
+f3a0852895b0e6d8a2471933ec0d4985 *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 b2ad2def0cce72983019e669fdb3b78b *R/AllData.R
-077f77f974fbd20a8d6a2dca3e18615a *R/TDbook-package.R
-5db1b17a2e460856ee252eaf11e9c4b2 *build/partial.rdb
+300c8042215aca1874d1c853f72d27ff *R/TDbook-package.R
+0c6ad5b3446721162c89589e8077ab1c *build/partial.rdb
 aaf6dee1984d83643877585d686bab2a *data/AA_sequence.rda
 1325e843616d401c54d193c086e3b8c9 *data/datalist
 1e8f8df3536adacc61feb28cd75064b9 *data/df_Candidaauris_data.rda
@@ -31,6 +31,7 @@ a0372252327f2a7253622ab19570d4f7 *data/tree_long_branch_example.rda
 89fe1d7d9034f7fa51df9f1c5c26f8ed *data/tree_nwk.rda
 ca9c6c52c3fa6327169ae595f6676284 *data/tree_seq_nwk.rda
 97420c4e99cc29ace69f2b3e357e93f7 *data/tree_treenwk_30.4.19.rda
+1409cb3dc69776f3ff438d90821e74bc *inst/CITATION
 6129f7987d5d8f26ca03a3b70c775b3c *inst/extdata/frogs/bufonidae.jpg
 41533dee7e55bec42651d2568a270892 *inst/extdata/frogs/centrolenidae.jpg
 72469158f136e87006f828149246b810 *inst/extdata/frogs/ceratophryidae.jpg
@@ -39,7 +40,7 @@ f681b7b8e0c10429fcaf0c31de5b9752 *inst/extdata/frogs/dendrobatidae.jpg
 6f860838fc5f4b7e47d300e28aa73f87 *inst/extdata/frogs/hylidae.jpg
 b2606c3c5f008f6d5c55146f63848c91 *inst/extdata/frogs/leptodactylidae.jpg
 7a57adcc49dfeb81897c93b2d9c3c8c6 *inst/extdata/frogs/treefrogs.jpg
-514b9599897805f2172f503aef2b3fd3 *man/TDbook-package.Rd
+d1c275e34383957fea3998ffc0dee128 *man/TDbook-package.Rd
 3d780acad11347d72f769f6c6cf8c115 *man/data-AA_sequence.Rd
 454434bd5f34aa6a7c91a7c22e809aa3 *man/data-df_Candidaauris_data.Rd
 a67730d465349d682d0886ad3cad54d2 *man/data-df_NJIDqgsS.Rd
